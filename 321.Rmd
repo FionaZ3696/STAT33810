@@ -33,6 +33,13 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 ```{r}
 print(123)
 
+<<<<<<< HEAD
+print('cbd')
+print("abcba")
+=======
 
 print("abc")
+
+print(245)
+>>>>>>> 99b207065a8ac625d729203b87170ba017137935
 ```
